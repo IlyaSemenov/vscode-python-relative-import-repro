@@ -1,1 +1,1 @@
-import api.bar
+import api.acme.acme.bar
